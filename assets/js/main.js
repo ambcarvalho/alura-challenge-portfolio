@@ -41,8 +41,8 @@ const user = {
          alt: 'logo-unifanor',
       },
       {
-         nome: 'Desenvolvedor Full Stack',
-         data: '2022 - em andamento',
+         nome: 'Oracle Next Education',
+         data: '2025 - em andamento',
          linkImage: 'assets/img/logo-alura.png',
          alt: 'logo-alura',
       },
